@@ -18,6 +18,6 @@
 <br>
 
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sweivbvmdcv5tk3cus5j45k7fq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify" align="right" width=220/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sweivbvmdcv5tk3cus5j45k7fq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify" align="right" width=420/>
 
 <!-- xD -->
