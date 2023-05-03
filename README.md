@@ -14,12 +14,16 @@
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   
 
+  <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="300" align="right" alt="Amar Verma's Dev Card"/></a>
+   
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sweivbvmdcv5tk3cus5j45k7fq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify" align="right" width=300/>
+  
+  <img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right" width=320/>
 
-   <img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right" width=320/>
 <br>
 
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sweivbvmdcv5tk3cus5j45k7fq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify" align="right" width=420/>
+
 
 <!-- xD -->
 
