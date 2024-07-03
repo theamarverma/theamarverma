@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/theamarverma](https://github.com/theamarverma)
 
-- 📫 How to reach me **amarverma.lnct@gmail.com**
+- 📫 How to reach me **devamarv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
