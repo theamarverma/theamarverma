@@ -23,13 +23,13 @@
 <p align="left"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cpp" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactjs" width="40" height="40"/> </a> <a href="https://javascript.info/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="js" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="ts" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt='tailwind' width="40" height="40"/> </a> <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" alt="mui" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
+<p>
+  <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="350" align="right" alt="Amar Verma's Dev Card"/></a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamarverma&show_icons=true&locale=en&layout=compact" alt="theamarverma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theamarverma&show_icons=true&locale=en" alt="theamarverma" /></p>
-<p>
-  <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="400" align="right" alt="Amar Verma's Dev Card"/></a>
-</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theamarverma&" alt="theamarverma" />
 
