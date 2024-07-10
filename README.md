@@ -28,7 +28,7 @@
  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamarverma&show_icons=true&locale=en&layout=compact" alt="theamarverma" />
-<img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right"  width=200/>
+<img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right"  width=250/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theamarverma&show_icons=true&locale=en" alt="theamarverma" /></p>
 
