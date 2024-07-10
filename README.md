@@ -24,7 +24,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <p>
-  <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="350" align="right" alt="Amar Verma's Dev Card"/></a>
+  <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="250" align="right" alt="Amar Verma's Dev Card"/></a>
  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamarverma&show_icons=true&locale=en&layout=compact" alt="theamarverma" />
