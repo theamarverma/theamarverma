@@ -25,20 +25,20 @@
 </p>
 <p>
   <a href="https://app.daily.dev/amarverma"><img src="https://api.daily.dev/devcards/bfaf9de2e32f4d6185ec6dae531fe8ce.png?r=ew9" width="350" align="right" alt="Amar Verma's Dev Card"/></a>
+ 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamarverma&show_icons=true&locale=en&layout=compact" alt="theamarverma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamarverma&show_icons=true&locale=en&layout=compact" alt="theamarverma" />
+<img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right" height=180 width=280/></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theamarverma&show_icons=true&locale=en" alt="theamarverma" /></p>
 
+<P>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theamarverma&" alt="theamarverma" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theamarverma&" alt="theamarverma" />
 
-  
-   </p>
-
-<img src="https://discord-readme-badge.vercel.app/api?id=757541653061042250" alt="Discord" align="right" width=320/>
  
-  
+  </P>
   
 
 <br>
