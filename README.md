@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amar Verma</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;MySelf+Amar!!;I'm+a+Frontend+Developer!;I'm+a+FullStack+Developer!;I'm+a+HTML+Email+Developer!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 </p>
