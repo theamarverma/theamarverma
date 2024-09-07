@@ -1,8 +1,12 @@
-![logo](https://media.licdn.com/dms/image/D5616AQF7K-7cbt7t2Q/profile-displaybackgroundimage-shrink_350_1400/0/1682696326106?e=1725494400&v=beta&t=p97B3qJCGLgM0HW4vpFrwTzqg_k8aEUSQU-_issIceg)
-<h1 align="center">Hi 👋, I'm Amar Verma</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<h1 align="center">Hi 👋, I'm Amar Verma</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;MySelf+Amar!!;I'm+a+Frontend+Developer!;I'm+a+FullStack+Developer!;I'm+a+HTML+Email+Developer!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+</p>
+
+<p>
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theamarverma&label=Profile%20views&color=0e75b6&style=flat" alt="theamarverma" /> </p>
 
 - 🌱 I’m currently learning **Typescript**
