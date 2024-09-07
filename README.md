@@ -1,9 +1,13 @@
 
 
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Amar%20Verma)
+<br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;MySelf+Amar!!;I'm+a+Frontend+Developer!;I'm+a+FullStack+Developer!;I'm+a+HTML+Email+Developer!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;MySelf+Amar!!;I'm+a+Frontend+Developer!;I'm+a+FullStack+Developer!;I'm+a+HTML+Email+Developer!;Contact+@+devamarv@gmail.com+!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+</p>
+<br>
 <p>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
